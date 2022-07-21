@@ -1,4 +1,5 @@
 # livingSimpleWeb
+https://livingsimpleweb.netlify.app/
 
 A simulated simple blog with only 2 pages. It also works mobile.
 
